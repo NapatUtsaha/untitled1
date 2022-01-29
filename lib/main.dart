@@ -67,7 +67,7 @@ class HomePage extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.only(top: 100.0),
                 child: Icon(
-                  Icons.pets,
+                  Icons.favorite,
                   size: 80.0,
                   color: Colors.pink,
                 ),
